@@ -60,11 +60,6 @@ Wildfires in Alberta are growing in size and frequency, yet much of the historic
 | `Final Report.pdf`            | Methodology & findings from CRISP-DM approach   |
 | `Dashboard Overview.pdf` (optional) | PDF export of the Power BI visuals       |
 
----
-
-## 📈 Visual Preview
-
-![Dashboard Screenshot](assets/dashboard_preview.png) <!-- (Add a screenshot of your Power BI dashboard here) -->
 
 ---
 
